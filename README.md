@@ -313,11 +313,6 @@ A `rollback_report.json` is saved alongside the migration report with full detai
 
 ---
 
-## License
-
-This project is provided as a reference implementation for blog purposes. Use at your own risk in production environments. We recommend testing in a staging EKS cluster first.
-
-
 
 ## Security
 
